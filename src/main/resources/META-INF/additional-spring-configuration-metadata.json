@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "adresse.codePostal",
+      "type": "java.lang.String",
+      "description": "Description for adresse.codePostal."
+  }
+] }
